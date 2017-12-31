@@ -608,7 +608,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ismailsafadi.invitat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/ismail/Desktop/INVITAT/INVITAT/INVITAT-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/ismail/Desktop/INVITATGITHUB/INVITAT/INVITAT/INVITAT-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -623,7 +623,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ismailsafadi.invitat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/ismail/Desktop/INVITAT/INVITAT/INVITAT-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/ismail/Desktop/INVITATGITHUB/INVITAT/INVITAT/INVITAT-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
