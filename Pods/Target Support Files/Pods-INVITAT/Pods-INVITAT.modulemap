@@ -1,0 +1,6 @@
+framework module Pods_INVITAT {
+  umbrella header "Pods-INVITAT-umbrella.h"
+
+  export *
+  module * { export * }
+}
