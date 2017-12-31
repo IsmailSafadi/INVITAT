@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  SwiftTemplate
+
+  Created by Ismail Safadi on 7/24/17.
+  Copyright © 2017 YM. All rights reserved.
+*/
+
+"Hi" = "Hello: This is localized String";
